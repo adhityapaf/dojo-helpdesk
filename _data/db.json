@@ -1,0 +1,102 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer links",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev"
+    },
+    {
+      "title": "hello world",
+      "body": "world",
+      "priority": "medium",
+      "user_email": "adhitya@netninja.dev",
+      "id": "sr1_f5R"
+    },
+    {
+      "title": "hello 2",
+      "body": "helllloooo",
+      "priority": "high",
+      "user_email": "adhitya@netninja.dev",
+      "id": "zqTdOTK"
+    },
+    {
+      "title": "asd",
+      "body": "asdasd",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "_QdaRBQ"
+    },
+    {
+      "title": "cca",
+      "body": "sa2",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "GBkzpmP"
+    },
+    {
+      "title": "asdasd",
+      "body": "31sa",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "WUeaEy6"
+    },
+    {
+      "title": "aa1",
+      "body": "21",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "MD11i8l"
+    },
+    {
+      "title": "asd1111",
+      "body": "fff33",
+      "priority": "high",
+      "user_email": "adhitya@netninja.dev",
+      "id": "uRt5a6M"
+    },
+    {
+      "title": "sss",
+      "body": "222",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "TWpN68Z"
+    },
+    {
+      "title": "sgvgg",
+      "body": "we12",
+      "priority": "medium",
+      "user_email": "adhitya@netninja.dev",
+      "id": "AM7zcqz"
+    },
+    {
+      "title": "Another new ticket",
+      "body": "new ticker here",
+      "priority": "low",
+      "user_email": "adhitya@netninja.dev",
+      "id": "w1U4w6j"
+    },
+    {
+      "title": "clean up the mess",
+      "body": "blaa",
+      "priority": "high",
+      "user_email": "adhitya@netninja.dev",
+      "id": "UtR2YP5"
+    }
+  ]
+}
